@@ -8,5 +8,20 @@ h1{
 }
 
 .retour{
-    margin-top: 230px;
+    margin-bottom: 230px;
+    border: solid;
+}
+
+.ing{
+    margin-bottom: 40px;
+}
+
+.page{
+    margin-left: 200px ;
+    margin-right:200px;
+}
+
+img{
+    display: block;
+    margin: auto;
 }
